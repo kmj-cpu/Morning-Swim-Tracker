@@ -66,3 +66,5 @@
 
 ## 화면 흐름 스케치
 <img width="3185" height="1048" alt="image" src="https://github.com/user-attachments/assets/6d93fe29-811f-4fd8-80a5-a62ed4611ea5" />
+
+##
