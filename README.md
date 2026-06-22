@@ -49,3 +49,20 @@
   데이터 입력을 받는 부분, 통계를 연산하는 부분 등을 각각의 `함수(Function)`로 분리하여 코드의 가독성과 유지보수성을 높입니다.
 * **📂 파일 입출력**
   기록된 리스트 데이터를 `.txt`나 `.csv` 파일로 내보내고, 프로그램을 다시 켤 때 기존 데이터를 불러오는 기능을 추가로 학습하여 구현합니다.
+
+## 기능목록
+[MUST] 당일 기상 시간과 수영 거리(m) 입력받기
+[MUST] 입력된 데이터를 전체 리스트에 누적하고 파일에 영구 저장
+[MUST] 파일에서 데이터를 불러와 이번 주 평균 기상 시간과 수영 거리 합계 계산
+[MUST] 이전 주 데이터와 대조하여 수영 거리 증감률(%) 계산 후 출력하기
+[NICE] 기상시간과 수영거리의 상관관계 분석하기
+[LATER] 가장 수영 거리가 길었던 요일 찾아내서 텍스트로 알려주기
+
+## 데이터 설계
+<img width="1613" height="838" alt="image" src="https://github.com/user-attachments/assets/4d361ae3-53eb-48cd-b10c-e8f4e884d1ae" />
+
+## 함수 설계
+<img width="3404" height="1114" alt="image" src="https://github.com/user-attachments/assets/a34ad30a-8758-4061-ab23-c7e03e42133e" />
+
+## 화면 흐름 스케치
+<img width="3185" height="1048" alt="image" src="https://github.com/user-attachments/assets/6d93fe29-811f-4fd8-80a5-a62ed4611ea5" />
