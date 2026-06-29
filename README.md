@@ -192,6 +192,23 @@ while True:
     else:
         print("\n잘못된 입력입니다. 1, 2, 3 중에서 다시 선택해주세요.")
 ```
+## 🚀 프로그램 실행 방법 (How to Run)
+
+본 프로그램은 터미널(CLI) 환경에서 동작하는 파이썬 스크립트입니다. 
+아래 절차에 따라 코드를 실행하고 테스트해 볼 수 있습니다.
+
+### 1. 사전 준비 (Prerequisites)
+* **Python 3.x** 버전이 설치되어 있어야 합니다.
+
+### 2. 실행 절차
+1. 이 깃허브 저장소에서 `swim_tracker.py` 파일을 다운로드하거나 저장소를 클론(Clone)합니다.
+2. 터미널(명령 프롬프트, PowerShell, 또는 Mac/Linux 터미널)을 실행합니다.
+3. 명령어를 통해 파이썬 코드가 저장된 폴더 경로로 이동합니다.
+   (예시: `cd Downloads/Morning-Swim-Tracker`)
+4. 아래 명령어를 입력하여 프로그램을 실행합니다.
+   ```bash
+   python swim_tracker.py
+   
 ## AI 도구 사용 내역
 
 1. [Gemini]
